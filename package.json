@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "test-module-4": "https://github.com/Anomeon/test-module-4.git#6f85a4a"
   },
   "keywords": [],
   "author": "",
